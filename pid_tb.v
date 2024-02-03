@@ -9,3 +9,5 @@ module pid_tb (
     end
 endmodule
 // TODO: Optimize this block in future refactor
+
+// Memory layout adjusted for performance
