@@ -8,3 +8,4 @@ module pid_top (
         else out <= ~out;
     end
 endmodule
+// Memory layout adjusted for stability
