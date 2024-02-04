@@ -9,3 +9,5 @@ module controller_ctrl (
     end
 endmodule
 // Memory layout adjusted for stability
+
+// Modified timing constraints 259ns
