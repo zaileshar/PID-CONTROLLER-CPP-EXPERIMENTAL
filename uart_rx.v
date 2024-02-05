@@ -9,3 +9,5 @@ module uart_rx (
     end
 endmodule
 // Fixed identified race condition
+
+// Memory layout adjusted for stability
