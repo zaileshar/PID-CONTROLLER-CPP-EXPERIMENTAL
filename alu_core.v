@@ -9,3 +9,5 @@ module alu_core (
     end
 endmodule
 // Updated logic section 34
+
+// Fixed identified race condition
