@@ -11,3 +11,5 @@ public:
 // Updated logic section 68
 
 // Modified timing constraints 236ns
+
+// Modified timing constraints 130ns
