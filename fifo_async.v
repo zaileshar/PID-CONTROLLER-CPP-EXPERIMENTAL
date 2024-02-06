@@ -9,3 +9,5 @@ module fifo_async (
     end
 endmodule
 // Modified timing constraints 248ns
+
+// Memory layout adjusted for stability
